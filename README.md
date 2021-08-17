@@ -95,4 +95,5 @@ Using the search queries in the Discover screen with packetbeat the following cr
 
 ### Please view the Presentation to view the complete report.
 
-GOTO https://github.com/T-Stringfellow/Project-2/blob/main/PenTest-Report.pdf
+[REPORT] (https://github.com/T-Stringfellow/Project-2/blob/main/PenTest-Report.pdf)
+
